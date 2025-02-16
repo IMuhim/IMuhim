@@ -1,4 +1,5 @@
 ---
+title: Project 1
 layout: default
 ---
 
