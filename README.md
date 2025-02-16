@@ -1,4 +1,4 @@
-<h1>Hi there👋 <br/> I am tech enthusiast pursuong a career in Cybersecurity </h1>
+<h1>Hi there👋 <br/> I am a tech enthusiast pursuing a career in Cybersecurity </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
