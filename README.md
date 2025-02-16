@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Keylogger using Python](https://imuhim.github.io/Python-Keylogger/)
+  - [Python Keylogger](https://imuhim.github.io/Python-Keylogger/)
 
 <h2>📄 Qualifications</h2>
 
